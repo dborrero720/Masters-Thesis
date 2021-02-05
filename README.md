@@ -1,4 +1,4 @@
-# Modeling for Maximum Profitability for Small Business Lenders Using Misclassification Costs 
+#### Modeling for Maximum Profitability for Small Business Lenders Using Misclassification Costs 
 
 This was my Masters Thesis that I wrote for my degree at Central Connecticut State University.  
 
