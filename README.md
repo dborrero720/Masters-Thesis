@@ -3,7 +3,12 @@
 This was my Masters Thesis that I wrote for my degree at Central Connecticut State University.  
 
 Here’s the link to my project available on the CCSU Library website:
+
 https://cscu-ccsu.userservices.exlibrisgroup.com/view/delivery/01CSCU_CCSU/1287369880003453
+
+Here’s the link to to the dataset available on Kaggle:
+
+https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied/version/1?select=SBAnational.csv
   
 A majority of this analysis was done using IBM SPSS Modeler, since this is what I mainly used in my graduate program.  Therefore, there is no code to go along with this project, as SPSS Modeler does not use code.  Excel was used for some of the initial steps and Tableau was used for some of the visuals. 
 
